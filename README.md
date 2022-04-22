@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anynomous25
+- 👋 Hi, I’m @Anshu Kumar
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on learning Data science from Scratch.
