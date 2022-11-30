@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anshu Kumar
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on learning Data science from Scratch.
+- 🌱 I’m currently learning Python, Machine Learning, Data Manipulation, Data Visualisation, Data Exploration.
 - 📫 If you are intrested you can email me at Anshukumar3721@gmail.com
 - My Datacamp profile https://www.datacamp.com/profile/anshukumar3721
 
